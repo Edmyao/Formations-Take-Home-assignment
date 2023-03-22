@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "date": "2023-03-10",
+        "merchant": "starbuck",
+        "note": "",
+        "amount": 5.95,
+        "category": "1"
+    },
+    {
+        "id": "2",
+        "date": "2023-03-10",
+        "merchant": "costco",
+        "note": "",
+        "amount": 1000.34,
+        "category": "2"
+    }
+]

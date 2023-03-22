@@ -1,0 +1,63 @@
+.App {
+    text-align: center;
+    min-height: 100vh;
+}
+
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 8vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+/*
+Update the following css according to your need
+*/
+
+.table {
+    min-height: 92vh;
+}
+
+.bordered {
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+.bordered th,
+.bordered td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.table-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.alert-message {
+    width: 50%;
+    padding: 10px;
+    margin: 10px;
+    border: solid 1px #fb6947;
+    border-radius: 5px;
+    background-color: #ffb5a3;
+}
+
+td button {
+    margin: 0 5px;
+}
